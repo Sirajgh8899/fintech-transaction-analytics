@@ -1,0 +1,51 @@
+merchant_id,merchant_name,merchant_category,merchant_country
+MER_001,Merchant_001,Fashion,Netherlands
+MER_002,Merchant_002,Electronics,France
+MER_003,Merchant_003,E-commerce,Spain
+MER_004,Merchant_004,E-commerce,Belgium
+MER_005,Merchant_005,Travel,Italy
+MER_006,Merchant_006,Electronics,Spain
+MER_007,Merchant_007,Groceries,Netherlands
+MER_008,Merchant_008,Fashion,Italy
+MER_009,Merchant_009,Food & Dining,Italy
+MER_010,Merchant_010,Food & Dining,Italy
+MER_011,Merchant_011,Entertainment,Belgium
+MER_012,Merchant_012,Travel,Germany
+MER_013,Merchant_013,Electronics,Italy
+MER_014,Merchant_014,Groceries,Spain
+MER_015,Merchant_015,Travel,Spain
+MER_016,Merchant_016,E-commerce,Netherlands
+MER_017,Merchant_017,Entertainment,France
+MER_018,Merchant_018,Fashion,France
+MER_019,Merchant_019,Fashion,Germany
+MER_020,Merchant_020,Fashion,Belgium
+MER_021,Merchant_021,Electronics,Belgium
+MER_022,Merchant_022,Food & Dining,Italy
+MER_023,Merchant_023,Groceries,Germany
+MER_024,Merchant_024,Fashion,Netherlands
+MER_025,Merchant_025,Fashion,Netherlands
+MER_026,Merchant_026,E-commerce,France
+MER_027,Merchant_027,Digital Services,Netherlands
+MER_028,Merchant_028,Travel,Italy
+MER_029,Merchant_029,Fashion,Spain
+MER_030,Merchant_030,Entertainment,Netherlands
+MER_031,Merchant_031,Travel,Germany
+MER_032,Merchant_032,Food & Dining,Italy
+MER_033,Merchant_033,Travel,Netherlands
+MER_034,Merchant_034,Groceries,Belgium
+MER_035,Merchant_035,E-commerce,Netherlands
+MER_036,Merchant_036,Electronics,Belgium
+MER_037,Merchant_037,Groceries,Italy
+MER_038,Merchant_038,Food & Dining,Netherlands
+MER_039,Merchant_039,Entertainment,Belgium
+MER_040,Merchant_040,Food & Dining,Spain
+MER_041,Merchant_041,Food & Dining,France
+MER_042,Merchant_042,Travel,Italy
+MER_043,Merchant_043,Entertainment,Belgium
+MER_044,Merchant_044,Groceries,Germany
+MER_045,Merchant_045,Food & Dining,Netherlands
+MER_046,Merchant_046,Groceries,Belgium
+MER_047,Merchant_047,Fashion,Belgium
+MER_048,Merchant_048,Fashion,Belgium
+MER_049,Merchant_049,Fashion,France
+MER_050,Merchant_050,Electronics,Germany
