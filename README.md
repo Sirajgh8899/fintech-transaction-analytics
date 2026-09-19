@@ -267,11 +267,12 @@ The SQL workflow is organized into separate scripts so that each stage of the an
 
 ## Power BI Dashboard
 
-![Executive Overview Dashboard](screenshots/executive-overview.png)
 
 The final Power BI report contains two interactive analytical pages.
 
 ### Page 1 — Executive Overview
+
+![Executive Overview Dashboard](screenshots/executive-overview.png)
 
 The Executive Overview provides a high-level view of transaction performance across the platform.
 
